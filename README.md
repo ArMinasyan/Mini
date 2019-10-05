@@ -2,14 +2,5 @@
 
 Name of inserted value
 --------------------------
-name_of_country
-alpha2code
-alpha3code
-name_of_city
-time_zone
-iscapital
-region
-population
-latlng
-area
+name_of_country, alpha2code,alpha3code, name_of_city, time_zone, iscapital, region, population, latlng, area
 
