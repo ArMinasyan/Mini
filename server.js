@@ -8,10 +8,8 @@ var get=require('./routes/get_data');
 app.use('/insert',insert);
 app.use('/get',get);
 //app.use('/update',update);
-server.createServer(app,function (req, res) {
-    res.end('Hello');
-}).listen(8080, function () {
-    console.log('Start');
+server.createServer(app,function (req, res) {}).listen(8080, function () {
+    console.log('Start...');
 });
 
 
