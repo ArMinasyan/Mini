@@ -1,6 +1,7 @@
 # Mini_Express_Project
 
-@Name of inserted value
+Name of inserted value
+___
 name_of_country
 alpha2code
 alpha3code
