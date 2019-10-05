@@ -7,7 +7,7 @@ var update=require('./routes/update_data');
 
 app.use('/insert',insert);
 app.use('/get',get);
-app.use('/update',update);
+//app.use('/update',update);
 server.createServer(app,function (req, res) {
     res.end('Hello');
 }).listen(8080, function () {
