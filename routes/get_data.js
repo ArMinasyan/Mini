@@ -14,7 +14,7 @@ app.get('/', function (req, res) {
     city.find({
         name: req.body.name_of_city,
     }, function (err, res) {
-        console.log(res);
+        console.log(res[0]);
     }).populate('country',{'_id':0,'__v':0});
 });
 
