@@ -1,7 +1,5 @@
 # Mini_Express_Project
 
-# Name of inserted value
-## Name of inserted value
 ### Name of inserted value
 ```
 name_of_country
