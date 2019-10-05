@@ -7,6 +7,5 @@ name_of_country, alpha2code, alpha3code, name_of_city, time_zone, iscapital, reg
 Routes
 -------------------------
 http://localhost:8080/insert
-_______
-
+-----------------------------------
 http://localhost:8080/get  Տhe values found are displayed in the console․
