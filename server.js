@@ -3,7 +3,7 @@ var app=require('express')();
 var i=require('./routes/insert_data.js');
 var insert=require('./routes/insert_data');
 var get=require('./routes/get_data');
-var update=require('./routes/update_data');
+//var update=require('./routes/update_data');
 
 app.use('/insert',insert);
 app.use('/get',get);
